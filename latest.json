@@ -1,5 +1,5 @@
 {
-  "version": "1.25",
-  "apk": "https://raw.githubusercontent.com/davidg7375-dotcom/miko-releases/main/Miko-1.25.apk",
-  "notes": "מיקו ודוד מנופפים במסך הבית • זיהוי שמות שנשמעים דומה (אתו/אטו, ויוה/ויוי) • הוספת מוצר בקול • משפט ארוך לא נחתך"
+  "version": "1.26",
+  "apk": "https://raw.githubusercontent.com/davidg7375-dotcom/miko-releases/main/Miko-1.26.apk",
+  "notes": "רווח בתחתית המסכים — כפתור העוזר הקולי כבר לא מסתיר את השורה האחרונה"
 }
